@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+@import url("./css/navbar.css");
+@import url("./css/home.css");
+@import url("./css/features.css");
+@import url("./css/download.css");
+@import url("./css/qna.css");
+@import url("./css/footer.css");
+
+:root{
+--softBlue: hsl(231, 69%, 60%);
+--softRed: hsl(0, 94%, 66%);
+--grayishBlue: hsl(229, 8%, 60%);
+--veryDarkBlue: hsl(229, 31%, 21%);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+}
